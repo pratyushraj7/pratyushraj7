@@ -8,7 +8,7 @@
 
 <!-- links to my social media accounts -->
 
-[1]: https://www.linkedin.com/in/pratyushraj7
+[1]: https://www.linkedin.com/in/pratyush-raj-65b9b6164/
 [2]: https://www.github.com/pratyushraj7
 [4]: http://www.medium.com/@pratyushraj7
 
