@@ -3,7 +3,8 @@
 [2.1]: https://github.com/pratyushraj7/pratyushraj7/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
 [3.1]: https://github.com/pratyushraj7/pratyushraj7/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
 [4.1]: https://github.com/pratyushraj7/pratyushraj7/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
-[5.1]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fvector-resume-icon_4187299.html&psig=AOvVaw2Lj78j0EcRrSuIy7-_C9dw&ust=1594938275249000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCA4Zym0OoCFQAAAAAdAAAAABAD)
+[5.1]: https://github.com/pratyushraj7/pratyushraj7/blob/master/assets/icons/icons8-download-resume-16.png (resume with padding)
+
 
 <!-- links to my social media accounts -->
 
