@@ -3,14 +3,14 @@
 [2.1]: https://github.com/pratyushraj7/pratyushraj7/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
 [3.1]: https://github.com/pratyushraj7/pratyushraj7/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
 [4.1]: https://github.com/pratyushraj7/pratyushraj7/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
-[5.1]: https://github.com/pratyushraj7/pratyushraj7/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
-[6.1]: https://github.com/pratyushraj7/pratyushraj7/blob/master/assets/icons/icons8-dev-48.png (dev icon with padding)
+[5.1]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fvector-resume-icon_4187299.html&psig=AOvVaw2Lj78j0EcRrSuIy7-_C9dw&ust=1594938275249000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCA4Zym0OoCFQAAAAAdAAAAABAD)
 
 <!-- links to my social media accounts -->
 
 [1]: https://www.linkedin.com/in/pratyush-raj-65b9b6164/
 [2]: https://www.github.com/pratyushraj7
 [4]: http://www.medium.com/@pratyushraj7
+[5]: https://drive.google.com/file/d/1ex_QzjxeX35d26YnnMwNHEEFNeeLfPiQ/view?usp=sharing
 
 
 ### Hello 👋
@@ -29,6 +29,7 @@ Some of my key skills include : Ionic Framework, CSS, JavaScript, C++ and Python
 [![linkedin pratyushraj7][1.1]][1]
 [![github pratyushraj7][2.1]][2]
 [![medium pratyushraj7][4.1]][4]
+[![resume pratyushraj7][5.1]][5]
 
 
 <p align='center'>
