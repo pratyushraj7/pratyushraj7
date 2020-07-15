@@ -24,12 +24,15 @@ Some of my key skills include : Ionic Framework, CSS, JavaScript, C++ and Python
 
 • ⚡ Fun fact: I love watching Animes and I like to write as well in my leisure time.
 
+• 📄 Do check my [Resume](https://drive.google.com/file/d/1ex_QzjxeX35d26YnnMwNHEEFNeeLfPiQ/view?usp=sharing)
+
 
 [![linkedin pratyushraj7][1.1]][1]
 [![github pratyushraj7][2.1]][2]
 [![medium pratyushraj7][4.1]][4]
 
+
+
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=pratyushraj7.visitor-badge">
  <p/>
-
