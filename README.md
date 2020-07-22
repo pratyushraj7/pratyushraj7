@@ -32,7 +32,3 @@ Some of my key skills include : Ionic Framework, CSS, JavaScript, C++ and Python
 [![medium pratyushraj7][4.1]][4]
 
 
-
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=pratyushraj7.visitor-badge">
- <p/>
