@@ -16,7 +16,7 @@
 
 Currently, I'm in Senior year at BIT Mesra, pursuing my B.E. in CSE. My fields of interests include Mobile development and Frontend. Apart from that, I like problem solving related to Data Structures and Algorithms. I am always looking for opportunities to work on something new.
 
-Some of my key skills include : Ionic Framework, CSS, JavaScript, C++ and Python. 
+Some of my key skills include : Ionic Framework, CSS, JavaScript, C++ and Java. 
 
 • 💬 Ask me about anything and everything!
 
