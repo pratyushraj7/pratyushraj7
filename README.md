@@ -14,7 +14,7 @@
 
 ### Hello 👋
 
-Currently, I'm working as a Product Engineer at MaxVal Group, Inc. My fields of interests include Mobile development and Frontend. Apart from that, I like problem solving related to Data Structures and Algorithms. I am always looking for opportunities to work on something new.
+Currently, I'm working as a Product Engineer at MaxVal Group, Inc. Always looking for opportunities to work on and learn something new.
 
 Some of my key skills include : Ionic Framework, CSS, JavaScript, C++ and Java. 
 
