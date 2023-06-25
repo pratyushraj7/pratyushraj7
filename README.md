@@ -16,7 +16,7 @@
 
 Currently, I'm working as a Product Engineer at MaxVal Group, Inc. Always looking for opportunities to work on and learn something new.
 
-Some of my key skills include : Salesforce Apex, Java, C#, C++ and Java. 
+Some of my key skills include : Salesforce Apex, Java, C#, C++ and Python. 
 
 • 💬 Ask me about anything and everything!
 
